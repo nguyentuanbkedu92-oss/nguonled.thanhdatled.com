@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nguonled.thanhdatled.com/sitemap.xml
